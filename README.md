@@ -14,7 +14,7 @@
 
 # Description
 
-**File Integrity Monitor** is a simple yet powerful Python-based tool designed to help developers, system administrators, and security-conscious users **track changes in important files** using cryptographic hash comparisons. The tool ensures that any unauthorized, accidental, or malicious changes to files are detected promptly and clearly.
+**File Integrity Checker** is a simple yet powerful Python-based tool designed to help developers, system administrators, and security-conscious users **track changes in important files** using cryptographic hash comparisons. The tool ensures that any unauthorized, accidental, or malicious changes to files are detected promptly and clearly.
 
 Whether you're maintaining a set of critical configuration files, managing scripts in a production environment, or just want to keep an eye on sensitive documents, this tool offers a lightweight and effective solution for **file integrity verification**.
 
@@ -46,8 +46,8 @@ This script uses Python’s built-in `hashlib` library to calculate hashes and s
 
 ## 🔧 Installation
 
-To use the File Integrity Monitor, you only need Python 3.7 or above installed.
+To use the File Integrity Checker, you only need Python 3.7 or above installed.
 
 ```bash
-git clone https://github.com/your-username/file-integrity-monitor.git
-cd file-integrity-monitor
+https://github.com/vairagidakshita/-FILE-INTEGRITY-CHECKER.git
+cd file_integrity_checkere.py
