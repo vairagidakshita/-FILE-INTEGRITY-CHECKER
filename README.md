@@ -1,18 +1,18 @@
-# -FILE-INTEGRITY-CHECKER
+#🛡️ FILE INTEGRITY CHECKER
 
-*COMPANY*: CODTECH IT SOLUTIONS
+- *Company*: CODTECH IT SOLUTIONS
 
-*NAME*: DAKSHITA VAIRAGI
+- *Name*: Dakshita Vairagi
 
-*INTER ID*: CT08DL1157
+- *INTER ID*: CT08DL1157
 
-*DOMAIN*: CYBER SECURITY & ETHICAL HACKING
+- *Domain*: Cyber Security and Ethical hacking
 
-*DURATION*: 8 WEEKS
+- *Duration*: 8 Weeks
 
-*MENTOR*: NEELA SANTOSH KUMAR
+- *Mentor*: NEELA SANTOSH KUMAR
 
-# 🛡️ Description
+# Description
 
 **File Integrity Monitor** is a simple yet powerful Python-based tool designed to help developers, system administrators, and security-conscious users **track changes in important files** using cryptographic hash comparisons. The tool ensures that any unauthorized, accidental, or malicious changes to files are detected promptly and clearly.
 
@@ -20,9 +20,9 @@ Whether you're maintaining a set of critical configuration files, managing scrip
 
 ---
 
-## 📌 What Is File Integrity Monitoring?
+## 📌 What Is File Integrity Checking?
 
-File Integrity Monitoring (FIM) is the process of validating the integrity of files by comparing their current state to a known good baseline. This is typically done using cryptographic hash functions, such as SHA-256, which produce a unique digital fingerprint of a file's contents. If the file changes, even slightly, the resulting hash will differ — allowing you to detect the change immediately.
+File Integrity Checking is the process of validating the integrity of files by comparing their current state to a known good baseline. This is typically done using cryptographic hash functions, such as SHA-256, which produce a unique digital fingerprint of a file's contents. If the file changes, even slightly, the resulting hash will differ — allowing you to detect the change immediately.
 
 This script uses Python’s built-in `hashlib` library to calculate hashes and stores them in a simple JSON file (`file_hashes.json`). Each time the script runs, it compares the current file hashes against the saved ones to detect:
 
