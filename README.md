@@ -1,4 +1,4 @@
-# 🛡️ FILE INTEGRITY CHECKER
+# FILE INTEGRITY CHECKER
 
 - *Company*: CODTECH IT SOLUTIONS
 
@@ -20,7 +20,7 @@ Whether you're maintaining a set of critical configuration files, managing scrip
 
 ---
 
-## 📌 What Is File Integrity Checking?
+##  What Is File Integrity Checking?
 
 File Integrity Checking is the process of validating the integrity of files by comparing their current state to a known good baseline. This is typically done using cryptographic hash functions, such as SHA-256, which produce a unique digital fingerprint of a file's contents. If the file changes, even slightly, the resulting hash will differ — allowing you to detect the change immediately.
 
@@ -32,19 +32,19 @@ This script uses Python’s built-in `hashlib` library to calculate hashes and s
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ **No dependencies** – only standard Python libraries (`hashlib`, `os`, `json`, `argparse`)
-- 🔐 Uses secure cryptographic hash algorithms (default: `SHA-256`)
-- 🧠 Maintains a persistent JSON database of file hashes
-- ⚠️ Detects new, modified, and deleted files
-- 📂 Supports monitoring of one or many files at once
-- 🧪 Useful for security audits, system configuration tracking, or backup verification
-- 💡 Fully scriptable and suitable for automation via cron jobs or task schedulers
+-  **No dependencies** – only standard Python libraries (`hashlib`, `os`, `json`, `argparse`)
+-  Uses secure cryptographic hash algorithms (default: `SHA-256`)
+-  Maintains a persistent JSON database of file hashes
+-  Detects new, modified, and deleted files
+-  Supports monitoring of one or many files at once
+-  Useful for security audits, system configuration tracking, or backup verification
+-  Fully scriptable and suitable for automation via cron jobs or task schedulers
 
 ---
 
-## 🔧 Installation
+##  Installation
 
 To use the File Integrity Checker, you only need Python 3.7 or above installed.
 
