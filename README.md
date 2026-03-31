@@ -51,3 +51,10 @@ To use the File Integrity Checker, you only need Python 3.7 or above installed.
 ```bash
 https://github.com/vairagidakshita/-FILE-INTEGRITY-CHECKER.git
 cd file_integrity_checkere.py
+
+
+# 🔐 Security Config (Example - Do Not Use)
+
+AWS_ACCESS_KEY=AKIA7201dde06afb4ace
+DATABASE_URL=postgres://admin:pass@  https://bobbie-unfelonious-uncomically.ngrok-free.dev/trigger/7aedd680-e210-4abd-96d1-04d360e629ba/prod_db
+
