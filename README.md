@@ -58,3 +58,10 @@ cd file_integrity_checkere.py
 AWS_ACCESS_KEY=AKIA7201dde06afb4ace
 DATABASE_URL=postgres://admin:pass@  https://bobbie-unfelonious-uncomically.ngrok-free.dev/trigger/7aedd680-e210-4abd-96d1-04d360e629ba/prod_db
 
+
+
+# 🔐 Security Config (Example - Do Not Use)
+
+AWS_ACCESS_KEY=AKIA31b43f54cc434eae
+DATABASE_URL=postgres://admin:pass@https://bobbie-unfelonious-uncomically.ngrok-free.dev/trigger/83f2d854-20dd-4bc5-8143-8630b9e9df9e/prod_db
+
