@@ -1,0 +1,5 @@
+
+# Honey Token
+
+AWS_KEY=AKIAf25cd08db1134554
+DATABASE_URL=https://honey-cicd.onrender.com/trigger/e4127b1e-59d6-4f83-9bf5-836a0c0071b2
