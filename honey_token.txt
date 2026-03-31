@@ -1,0 +1,5 @@
+
+# Honey Token
+
+AWS_KEY=AKIA8be58d79f2744692
+DATABASE_URL= https://bobbie-unfelonious-uncomically.ngrok-free.dev/trigger/5aadf229-b9cb-4498-8eba-dc7dc1f04a14
